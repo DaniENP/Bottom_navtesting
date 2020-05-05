@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Perfil" >
+
+    </item>
+
+    <item
+        android:id="@+id/nav_horario"
+        android:icon="@drawable/ic_schedule_black_24dp"
+        android:title="Horario" >
+
+    </item>
+
+    <item
+        android:id="@+id/nav_services"
+        android:icon="@drawable/ic_question_answer_black_24dp"
+        android:title="Servicios" >
+
+    </item>
+
+
+</menu>
