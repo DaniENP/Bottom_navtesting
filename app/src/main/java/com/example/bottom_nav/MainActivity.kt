@@ -6,7 +6,7 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
 
     // Sebas es pvto
-    // sebas tambien es pvt
+    // sebas tambien es pvtisimo
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
